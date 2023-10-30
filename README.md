@@ -1,7 +1,7 @@
 # Call_Centre_Monitoring_Performance_Report
 Author's : Aliriza Hamonangan Matondang
 ## Hello Everyone 👋
-I have tried to create dashboard, report and forecasting in Google Sheets, Deck, and Google Colab. I was so curious to learn about these, which were a bit difficult. Anyway, it's fine. So I would like to show you about my Call Centre Monitoring Performance Report in Google Sheets, Deck, and Google Colab.
+I have tried to create dashboard, report and forecasting in Google Sheets, Deck, and Google Collab. I was so curious to learn about these, which were a bit difficult. Anyway, it's fine. So I would like to show you about my Call Centre Monitoring Performance Report in Google Sheets, Deck, and Google Collab.
 ## The Results
 1. Call Centre Performance Monitoring
 ![WhatsApp Image 2023-10-30 at 11 34 36](https://github.com/Alirizahm/Call_Centre_Monitoring_Performance_Report/assets/92624520/4e1aec23-1e06-4cd7-b127-174b168044f5)
